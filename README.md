@@ -6,7 +6,7 @@ Uploaded sept 11/7/2022
 
 [HOW TO USE..?]
 
-1-git clone https://github.com/WHOAMI-XD-KING/V7x-Tool
+1- git clone https://github.com/WHOAMI-XD-KING/V7x-Tool
 
 2- chmod +x v7x-whoami.py
 
